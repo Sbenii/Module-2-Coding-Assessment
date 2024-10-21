@@ -1,1 +1,8 @@
-
+*{
+}
+#menu{
+  Text-align: Center;
+  Font-weight:Bold;
+  Margin-top:80px;
+  Font-size:65px;
+}
